@@ -9,7 +9,7 @@
 ---
 
 - 🔭 I’m currently working on:  
-  👉 <a href="https://github.com/Rabenarivo/CRM-ERP">CRM-ERP</a>
+  👉 <a href="https://github.com/Rabenarivo/CRM-ERP">ERP achat-vente-stock</a>
 
 - 🔭 I’m currently working on:  
   👉 <a href="https://github.com/Rabenarivo/bibliotheque">Library Management</a>
